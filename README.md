@@ -1,1 +1,1 @@
-# comp-site
+# comp-site учебный проект
